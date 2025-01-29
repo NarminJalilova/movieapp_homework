@@ -84,7 +84,6 @@ function searchMovies() {
     }
 }
 
-// 
 window.onload = function() {
     fetchMovies("movie", currentPage);
 };
